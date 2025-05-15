@@ -3,7 +3,7 @@
    Update ENDPOINT to your backend URL (Google Apps Script or Node). */
 
 (() => {
-  const ENDPOINT = 'https://YOUR_BACKEND_URL_HERE';
+  const ENDPOINT = 'https://script.google.com/a/macros/thefounderspledge.org/s/AKfycbxXzuhDwezqBzArfehfEfbVEVDt_lZGSyYyeg7LcLqvvtvKg2GfAdC-kIUMGChlyH91/exec';
 
   /* =========================================================
      Section 1 — Provider signatures & fetch() interception
